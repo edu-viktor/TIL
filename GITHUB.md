@@ -11,9 +11,7 @@
 ### Repository 생성
 
 - git remote
-- git push
 
 
 
-## gitignore
-
+새로운 내용
