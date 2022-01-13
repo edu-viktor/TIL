@@ -12,6 +12,9 @@
 
 - git remote
 
+- git push
 
 
-새로운 내용
+
+### .gitignore
+
